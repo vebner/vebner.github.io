@@ -1,9 +1,6 @@
-.strong {
-  font-weight: bold;
-  font-size: 36px;
-
+strong {
+  font-size= 36px;
 }
-
 h1 {
-  color= "blue";
+  color="#33485e;"
 }
