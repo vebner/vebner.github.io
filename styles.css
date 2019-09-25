@@ -14,11 +14,11 @@ img {
 body {
   max-width: 800px;
   margin: 20px auto;
-  font-family: 'Roboto', serif;
+  font-family: 'Roboto Slab', serif;
 }
 .center-top-content {
   margin: 0 auto 20px;
-  max-width: 500px;
+  max-width: 400px;
   text-align: center;
   border-bottom: 1px solid grey;
 }
@@ -41,15 +41,16 @@ h1, h2, h3, h4, h5 {
 }
 
 .media {
-  max-width: 400px;
-  margin: 0 auto 0;
+  max-width: 500px;
+  margin: 0 auto 20px;
   list-style-type: none;
-  padding-right: 2px;
-  padding-left: 2px;
+  padding-right: 0px;
+  padding-left: 0px;
   border-width: thin;
   word-spacing: 5px;
+  display: inline-block;
 }
-.media li {
+.media ul {
   display: inline-block;
 
 }
@@ -60,6 +61,13 @@ h1, h2, h3, h4, h5 {
 }
 .intropara {
   line-height: 1.5;
+  margin: 0 auto 0;
+  width: 80%;
+
+}
+.intropara img {
+  width: 40%;
+  float: right;
 }
 .highlight {
   background-color: #33485e;
