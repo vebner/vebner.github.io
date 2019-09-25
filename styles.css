@@ -51,3 +51,18 @@ li {
 img {
   float: right;
 }
+.highlight {
+  background-color: #33485e;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-style: bold;
+}
+h5 {
+  font-style: italic;
+}
+h4, h5 {
+  font-weight: normal;
+}
