@@ -10,13 +10,10 @@ body {
   font-family: 'Roboto Slab', serif;
 }
 
-div.center-top-content {
+.center-top-content {
   text-align: center;
   border-bottom: dashed;
 }
 .headerfont {
   font-family: sans-serif;
-}
-body {
-  background-color: red;
 }
