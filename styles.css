@@ -31,10 +31,14 @@ li {
   display: inline;
   list-style-type: none;
   border-right: solid;
+  text-align: center;
 }
 .personal {
   text-align: center;
   color: gray;
   font-style: italic;
 
+}
+.main-content {
+  width: 80%;
 }
