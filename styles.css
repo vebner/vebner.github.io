@@ -27,7 +27,7 @@ h2 {
 .uppercase {
   text-transform: uppercase;
 }
-li {
+.media {
   display: inline;
   list-style-type: none;
   border-right: solid;
@@ -65,4 +65,9 @@ h5 {
 }
 h4, h5 {
   font-weight: normal;
+}
+.container-experience {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font: 14px;
 }
