@@ -32,3 +32,9 @@ li {
   list-style-type: none;
   border-right: solid;
 }
+.personal {
+  text-align: center;
+  color: gray;
+  font-style: italic;
+
+}
