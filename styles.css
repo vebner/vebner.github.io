@@ -30,7 +30,7 @@ h2 {
 }
 .uppercase {
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 .media {
   display: inline;
