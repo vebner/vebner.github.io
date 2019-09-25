@@ -15,6 +15,7 @@ body {
 .center-top-content {
   text-align: center;
   border-bottom: solid;
+  border-width: thin;
 }
 .headerfont {
   font-family: 'Raleway', sans-serif;
