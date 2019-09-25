@@ -36,6 +36,7 @@ h2 {
   display: inline;
   list-style-type: none;
   border-right: solid;
+  padding-right: 2px;
   text-align: center;
   border-width: thin;
   word-spacing: 5px;
