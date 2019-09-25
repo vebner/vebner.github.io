@@ -43,3 +43,10 @@ li {
   width: 80%;
   text-align: center;
 }
+.intropara {
+  line-height: 20px;
+
+}
+img {
+  float: right;
+}
