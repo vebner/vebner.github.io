@@ -3,3 +3,8 @@ h1 {
   color: #33485e;
   font-weight: bold;
 }
+body {
+  max-height: 800px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
