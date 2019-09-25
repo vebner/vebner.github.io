@@ -2,6 +2,7 @@
 h1 {
   color: #33485e;
   font-weight: bold;
+
 }
 body {
   length: 800px;
@@ -21,4 +22,7 @@ h2 {
   background-color: #33485e;
   color: white;
   padding: 5px;
+}
+.uppercase {
+  text-transform: uppercase;
 }
