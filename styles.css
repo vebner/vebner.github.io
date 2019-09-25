@@ -17,3 +17,8 @@ body {
 .headerfont {
   font-family: 'Raleway', sans-serif;
 }
+h2 {
+  background-color: #33485e;
+  color: white;
+  padding: 5px;
+}
