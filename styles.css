@@ -4,6 +4,7 @@ h1 {
   font-weight: bold;
 
 }
+
 body {
   length: 800px;
   margin-top: 20px;
@@ -25,4 +26,9 @@ h2 {
 }
 .uppercase {
   text-transform: uppercase;
+}
+li {
+  display: inline;
+  list-style-type: none;
+  border-right: solid;
 }
