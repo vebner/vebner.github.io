@@ -51,6 +51,7 @@ h2 {
 img {
   float: right;
   width: 33%;
+  word-wrap: normal;
 }
 .highlight {
   background-color: #33485e;
