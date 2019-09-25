@@ -9,6 +9,7 @@ img {
   max-width: 600px;
   width: 100%;
   float: right;
+
 }
 
 body {
@@ -18,10 +19,19 @@ body {
 }
 
 .center-top-content {
+  margin: 0 auto 20px;
+  max-width: 500px;
   text-align: center;
-  border-bottom: solid;
-  border-width: thin;
+  border-bottom: 1px solid grey;
 }
+
+.personal {
+  color: gray;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
 .headerfont {
   font-family: 'Raleway', sans-serif;
 }
@@ -44,13 +54,7 @@ h2 {
   border-width: thin;
   word-spacing: 5px;
 }
-.personal {
-  text-align: center;
-  color: gray;
-  font-style: italic;
-  font-weight: bold;
 
-}
 .main-content {
   width: 80%;
   text-align: left;
