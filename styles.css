@@ -17,3 +17,6 @@ div.center-top-content {
 .headerfont {
   font-family: sans-serif;
 }
+body {
+  background-color: red;
+}
