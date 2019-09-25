@@ -41,7 +41,8 @@ li {
 }
 .main-content {
   width: 80%;
-  text-align: center;
+  align-content: center;
+  text-align: left;
 }
 .intropara {
   line-height: 20px;
