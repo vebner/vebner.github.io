@@ -13,5 +13,8 @@ body {
 
 div.center-top-content {
   text-align: center;
-  border-bottom: dotted;
+  border-bottom: dashed;
+}
+.headerfont {
+  font-family: sans-serif;
 }
