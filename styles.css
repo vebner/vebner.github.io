@@ -54,7 +54,6 @@ h2 {
 }
 img {
   float: right;
-  height: 33%;
   word-wrap: normal;
 }
 .highlight {
@@ -81,4 +80,7 @@ h4, h5 {
   width: 80%;
   padding-left: 20px;
   padding-right: 20px;
+}
+.centerprob {
+  text-align: center;
 }
