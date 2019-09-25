@@ -50,6 +50,7 @@ h2 {
 }
 img {
   float: right;
+  width: 33%;
 }
 .highlight {
   background-color: #33485e;
