@@ -84,3 +84,6 @@ h4, h5 {
 .centerprob {
   text-align: center;
 }
+div {
+  border-bottom: 1px;
+}
