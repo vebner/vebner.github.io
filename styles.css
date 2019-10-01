@@ -17,7 +17,7 @@ body {
   font-family: 'Roboto Slab', serif;
 }
 .center-top-content {
-  margin: 0 auto 20px;
+  margin: 0 auto 0px;
   max-width: 400px;
   text-align: center;
   border-bottom: 1px solid grey;
@@ -41,20 +41,13 @@ h1, h2, h3, h4, h5 {
 }
 
 .media {
-  max-width: 500px;
-  margin: 0 auto 20px;
+  width: 80%;
+  margin: 0 auto 0;
   list-style-type: none;
-  padding-right: 0px;
-  padding-left: 0px;
-  border-width: thin;
-  word-spacing: 5px;
+}
+.media li {
   display: inline-block;
 }
-.media ul {
-  display: inline-block;
-
-}
-
 .main-content {
   width: 80%;
   margin: 0 auto;
