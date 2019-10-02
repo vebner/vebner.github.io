@@ -45,18 +45,33 @@ body {
   margin: 0 auto 0px;
   max-width: 400px;
   text-align: center;
-  font-weight: bolder;
+  font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
 
 }
-.top-center-menu img {
-  padding-bottom: 5px;
+hr {
+  border-top: dotted 1px;
 }
 
+.introstyle {
+  color: #b3cbcb;
+  text-align: center;
+}
+.titles {
+  text-transform: uppercase;
+  color: #990000;
+  font-weight: bold;
+}
+h5 {
+  font-family: 'Raleway', sans-serif;
+}
+.price {
+  font-style: italic;
+}
+.highlight {
+  background-color: #d1e0e0;
+  border-style: dotted;
+  border-weight: 1px;
 
-.container-experience {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font: 14px;
 }
