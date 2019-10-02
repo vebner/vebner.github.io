@@ -48,10 +48,12 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
+  color: grey;
 
 }
 hr {
   border-top: dotted 1px;
+  color: grey;
 }
 
 .introstyle {
@@ -72,6 +74,23 @@ h5 {
 .highlight {
   background-color: #d1e0e0;
   border-style: dotted;
-  border-weight: 1px;
+  border-weight: thin;
+  border-color: grey;
 
+}
+.lastguy{
+  list-style-type: none;
+}
+.footnotes {
+   color: #b3cbcb;
+}
+.footnotes img {
+  float: right;
+  width: 40%;
+}
+.boldy {
+  color: black; important
+}
+.add {
+  color: grey;
 }
