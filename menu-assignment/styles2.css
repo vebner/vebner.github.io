@@ -1,0 +1,96 @@
+
+h1 {
+  color: #33485e;
+  font-weight: bold;
+  margin-bottom: 0;
+
+}
+img {
+  max-width: 600px;
+  width: 100%;
+  float: right;
+
+}
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.media {
+  width: 80%;
+  margin: 0 auto 0;
+  list-style-type: none;
+  text-align: center;
+}
+.media li {
+  display: inline-block;
+}
+.main-content {
+  width: 80%;
+  margin: 0 auto;
+}
+.intropara {
+  line-height: 1.5;
+  margin: 0 auto 0;
+  width: 80%;
+
+
+}
+
+body {
+  max-width: 800px;
+  margin: 20px auto;
+  font-family: 'Raleway', sans-serif;
+}
+.top-center-menu {
+  margin: 0 auto 0px;
+  max-width: 400px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: grey;
+
+}
+hr {
+  border-top: dotted 1px;
+  color: grey;
+}
+
+.introstyle {
+  color: #b3cbcb;
+  text-align: center;
+}
+.titles {
+  text-transform: uppercase;
+  color: #990000;
+  font-weight: bold;
+}
+h5 {
+  font-family: 'Raleway', sans-serif;
+}
+.price {
+  font-style: italic;
+}
+.highlight {
+  background-color: #d1e0e0;
+  border-style: dotted;
+  border-weight: thin;
+  border-color: grey;
+
+}
+.lastguy{
+  list-style-type: none;
+}
+.footnotes {
+   color: #b3cbcb;
+}
+.footnotes img {
+  float: right;
+  width: 40%;
+}
+.boldy {
+  color: black; important
+}
+.add {
+  color: grey;
+}
