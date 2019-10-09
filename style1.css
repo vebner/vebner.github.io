@@ -1,9 +1,13 @@
-.jumbotron-fluid {
-  background-color:#ffc107;
+.jumbotron jumbotron-fluid {
+  background-color: yellow;
 }
 h1 {
   font-family: 'Raleway', sans-serif;
 }
 .navbar navbar-expand-lg navbar-light bg-light {
   font-family: 'Raleway', sans-serif;
+}
+img {
+  width: 80%;
+  padding-top: 20px;
 }
