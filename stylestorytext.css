@@ -18,3 +18,17 @@ h5 {
   color: white;
   text-align: center;
 }
+.graphic1 {
+  align-content: center;
+}
+.captions {
+  color: grey;
+  font-size: 10px;
+  font-style: italic;
+  text-align: right;
+}
+.caption {
+  color: grey;
+  font-size: 10px;
+  font-style: italic;
+}
