@@ -1,0 +1,20 @@
+.display-4 {
+  text-align: center;
+  color: white;
+  font-family: 'Fjalla One', serif;
+}
+h3 {
+  text-align: center;
+  color: #f5c107;
+  font-family: 'PT Serif', serif;
+  font-style: italic;
+  font-weight: bold;
+}
+p {
+  font-family: 'PT Serif', serif;
+}
+h5 {
+  font-family: 'PT Serif', serif;
+  color: white;
+  text-align: center;
+}
