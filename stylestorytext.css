@@ -1,6 +1,6 @@
 .display-4 {
   text-align: center;
-  color: white;
+  color: #faf9f0;
   font-family: 'Fjalla One', serif;
 }
 h3 {
@@ -9,26 +9,39 @@ h3 {
   font-family: 'PT Serif', serif;
   font-style: italic;
   font-weight: bold;
+  text-shadow: 2px 2px 5px grey;
 }
 p {
   font-family: 'PT Serif', serif;
 }
 h5 {
   font-family: 'PT Serif', serif;
-  color: white;
+  color: #faf9f0;
   text-align: center;
 }
+img {
+  display: block;
+  margin: 0 auto 0;
+}
 .graphic1 {
-  align-content: center;
+  display: block;
+  margin: 0 auto 0;
 }
 .captions {
   color: grey;
-  font-size: 10px;
+  font-size: 12px;
   font-style: italic;
   text-align: right;
 }
 .caption {
   color: grey;
-  font-size: 10px;
+  font-size: 12px;
   font-style: italic;
+  text-align: right;
+}
+.dateline {
+  font-style: italic;
+}
+.jumbotron.jumbotron-fluid {
+  margin-bottom: 0;
 }
