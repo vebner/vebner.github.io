@@ -1,47 +1,84 @@
 .display-4 {
   text-align: center;
   color: #faf9f0;
-  font-family: 'Fjalla One', serif;
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px grey;
 }
 h3 {
   text-align: center;
   color: #f5c107;
   font-family: 'PT Serif', serif;
   font-style: italic;
-  font-weight: bold;
-  text-shadow: 2px 2px 5px grey;
+  font-size: 50px;
 }
 p {
   font-family: 'PT Serif', serif;
 }
+a:link {
+  color:#f5c107;
+}
+a:visited {
+  color:#f5c107;
+}
 h5 {
-  font-family: 'PT Serif', serif;
+  font-family: 'Roboto' sans-serif;
   color: #faf9f0;
   text-align: center;
+}
+h6 {
+  font-family: 'Roboto' sans-serif;
+}
+.caption1 {
+  text-align: right;
+  color: grey;
+}
+.figurecaption {
+  float: right;
 }
 img {
   display: block;
   margin: 0 auto 0;
+  width: 40%;
 }
+.img-with-text {
+    text-align: right;
+
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
 .graphic1 {
   display: block;
   margin: 0 auto 0;
+  padding-bottom: 10px;
 }
+
 .captions {
   color: grey;
   font-size: 12px;
-  font-style: italic;
+  font-family: 'Roboto' sans-serif;
   text-align: right;
 }
 .caption {
   color: grey;
   font-size: 12px;
   font-style: italic;
+  font-family: 'Roboto' sans-serif;
   text-align: right;
 }
 .dateline {
   font-style: italic;
+  font-family: 'Roboto' sans-serif;
 }
 .jumbotron.jumbotron-fluid {
   margin-bottom: 0;
+}
+.secphoto {
+  float: right;
+  width: 30%;
+  display: inline-block;
 }
