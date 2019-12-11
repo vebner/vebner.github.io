@@ -36,6 +36,11 @@ h6 {
 .figurecaption {
   float: right;
 }
+figcaption {
+  display: inline-block;
+  float: right;
+  text-align: right;
+}
 img {
   display: block;
   margin: 0 auto 0;
