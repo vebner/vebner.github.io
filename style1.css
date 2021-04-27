@@ -2,6 +2,10 @@
 .navbar navbar-expand-lg navbar-light bg-light {
   font-family: 'Poppins', sans-serif;
 }
+.h1 {
+  font-family: 'Poppins', san-serif;
+
+}
 .row-md-8 img {
   width: 70%;
   padding:20px;
