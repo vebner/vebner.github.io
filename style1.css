@@ -15,7 +15,6 @@
 }
 .display-4 {
   font-family: 'Quicksand', sans-serif;
-  font-weight: bold;
   text-align: center;
   color: #FAF4F3;
   text-transform: uppercase;
@@ -29,7 +28,7 @@
 
 }
 .navbar-brand {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Quicksand', sans-serif;
 }
 row-md-2 {
   padding-bottom: 75px;
@@ -39,23 +38,12 @@ row-md-2 {
 a {
   color: #FAEDEC;
 }
-h2, h3, h4 {
-    font-family: 'Cabin', sans-serif;
+h2, h3, h4, h5, p {
+    font-family: 'Quicksand', sans-serif;
     color: #CF9690;
     text-transform: uppercase;
 }
-h2 {
-  font-weight: bold;
-}
-h5 {
-  font-family: 'Roboto Slab', serif;
-  color: #674B48;
-  font-weight: bold;
-}
-p {
-  font-family: 'Roboto Slab', serif;
-  color: #674B48;
-}
+
 
 .lead {
   color: #E2C0BC;
