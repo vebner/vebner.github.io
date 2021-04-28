@@ -14,7 +14,7 @@
   position: relative;
 }
 .display-4 {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-weight: bold;
   text-align: center;
   color: #FAF4F3;
@@ -79,7 +79,7 @@ ul {
    padding-right: 100px;
 }
 .my-4 {
-  width: 75%;
+  width: 80%;
 }
 .intro {
     color: #9BBACC;
